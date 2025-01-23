@@ -1,2 +1,2 @@
 # Mainflow
-Internships
+Internship
